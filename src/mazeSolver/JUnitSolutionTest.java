@@ -1,4 +1,4 @@
-package cs146.Thapa.F19Project3;
+package mazeSolver;
 
 import static org.junit.Assert.*;
 

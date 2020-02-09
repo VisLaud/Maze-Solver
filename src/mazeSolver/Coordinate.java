@@ -1,4 +1,4 @@
-package cs146.Thapa.F19Project3;
+package mazeSolver;
 
 /*
  * This class is for keeping track of the coordinates of cell on a matrix
